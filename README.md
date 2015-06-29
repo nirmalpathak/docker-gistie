@@ -1,2 +1,2 @@
 # gistie
-Dockerized version of Gistie
+Dockerized version of [Gistie] (https://github.com/gmarik/Gistie)
