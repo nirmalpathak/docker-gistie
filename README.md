@@ -8,4 +8,4 @@ Every Gist is a *Git repository* thus **versioned** and **cloneable**. Heavily i
 ```
 $ docker run -d -p 3000:3000 nirmalpathak/gistie
 ```
-The above command will start gistie application on port 3000 of your docker host. You can go to http://<IP_Addr_Host>:3000 to use the applicaiton.
+The above command will start gistie application on port 3000 of your docker host. You can go to http://localhost:3000 to use the applicaiton.
